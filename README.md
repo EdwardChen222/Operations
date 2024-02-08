@@ -1,5 +1,8 @@
 # Micro:bit v2 Base
 
+We are creating a modern adaptation of the classic "Operation" game, reimagined with a computer science twist called "Bug Squashing." In this version, players will use "Debuggers" (the game's tweezers) to carefully extract various software "bugs" from a computer motherboard-themed game board. Each bug represents a common software issue, such as "Memory Leak," "Virus," "Buffer Overflow," and "Deadlock." We want to continue with this project because it merges nostalgia with contemporary tech themes. Players would interact using stainless steel tweezers, directly connected to the microbit, possibly via alligator clips and jumper wires. For real-time feedback, we're integrating small multi-colored LEDs or LED strips to provide visual signals, differentiating between touching a bug and making an error by touching the board's side.
+
+
 This repository has applications and board initialization that connects to the
 build system provided by [nrf52x-base](https://github.com/lab11/nrf52x-base).
 
