@@ -1,6 +1,4 @@
-# Northwestern Micro:bit v2 Base
-
-Starter code for Northwestern course CE346 based on Micro:bit v2.
+# Micro:bit v2 Base
 
 This repository has applications and board initialization that connects to the
 build system provided by [nrf52x-base](https://github.com/lab11/nrf52x-base).
